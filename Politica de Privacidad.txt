@@ -1,0 +1,39 @@
+POLÍTICA DE PRIVACIDAD
+
+El presente Política de Privacidad establece los términos en que los desarrolladores de la aplicación (COVID-19 detection using X-ray images) 
+usan y protegen la información que es proporcionada por sus usuarios al momento de utilizar la aplicación. 
+Los desarrolladores están comprometidos con la seguridad de los datos de sus usuarios. 
+La aplicación no solicita llenar campos de información personal con la cual usted pueda ser identificado. 
+Sin embargo, esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos 
+y enfatizamos revisar continuamente este documento para asegurarse que está de acuerdo con dichos cambios.
+
+Información que es recogida
+
+La aplicación no recoge información personal de ningún tipo, por ejemplo: nombre, información de contacto, 
+como su dirección de correo electrónico e información demográfica. 
+La aplicación solo utiliza la cámara para capturar fotos a ser procesadas por la aplicación, 
+pero sin ser almacenadas por la aplicación. L
+a aplicación también utiliza permisos para acceder a imágenes de la galería fotográfica para 
+procesar las imágenes seleccionadas por el usuario, pero sin ser almacenadas por la aplicación. 
+
+Uso de la información recogida
+
+La aplicación solo utiliza permisos para acceder a la cámara o a la galería para elegir fotos a ser procesadas por la aplicación, 
+pero sin ser almacenadas por la aplicación ni en algún otro servidor.
+
+Cookies
+
+Esta aplicación no utiliza cookies.
+
+Enlaces a Terceros
+
+Esta aplicación pudiera contener enlaces a otros sitios que pudieran ser de interés. 
+Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido 
+y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. 
+Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte 
+para confirmar que usted está de acuerdo con estas.
+
+Control de su información personal
+Esta aplicación no almacena ningún tipo de información personal sobre el usuario.
+
+Los desarrolladores de la aplicación se reservan el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
